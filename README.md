@@ -10,3 +10,5 @@
 - check your compiled html file (test_example.html) in folder 'compiled_html_files'
 
 Also you can check examples in folder 'examples'.
+
+co-author - https://github.com/furball0
